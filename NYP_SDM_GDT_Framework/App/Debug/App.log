@@ -1,0 +1,128 @@
+﻿  Application.cpp
+  GameStateManager.cpp
+  IntroState.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\glfw\include\GLFW\glfw3.h(98): message : see previous definition of 'APIENTRY'
+  MenuState.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\glfw\include\GLFW\glfw3.h(98): message : see previous definition of 'APIENTRY'
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\App\Source\GameStateManagement\MenuState.cpp(123,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\App\Source\GameStateManagement\MenuState.cpp(122,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\App\Source\GameStateManagement\MenuState.cpp(124,95): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\App\Source\GameStateManagement\MenuState.cpp(124,55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  PauseState.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\glfw\include\GLFW\glfw3.h(98): message : see previous definition of 'APIENTRY'
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\App\Source\GameStateManagement\PauseState.cpp(98,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\App\Source\GameStateManagement\PauseState.cpp(97,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\App\Source\GameStateManagement\PauseState.cpp(99,95): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\App\Source\GameStateManagement\PauseState.cpp(99,55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Play3DGameState.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\glfw\include\GLFW\glfw3.h(98): message : see previous definition of 'APIENTRY'
+  PlayGameState.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\glfw\include\GLFW\glfw3.h(98): message : see previous definition of 'APIENTRY'
+  main.cpp
+  BackgroundEntity.cpp
+  Enemy2D.cpp
+  Enemy2DManager.cpp
+  GameManager.cpp
+  GUI_Scene2D.cpp
+  InventoryItem.cpp
+  InventoryManager.cpp
+  Map2D.cpp
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\App\Source\Scene2D\Map2D.cpp(868,36): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\App\Source\Scene2D\Map2D.cpp(868,24): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\App\Source\Scene2D\Map2D.cpp(869,36): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\App\Source\Scene2D\Map2D.cpp(869,23): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\App\Source\Scene2D\Map2D.cpp(921,41): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\App\Source\Scene2D\Map2D.cpp(921,26): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\App\Source\Scene2D\Map2D.cpp(1069,46): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\App\Source\Scene2D\Map2D.cpp(1099,20): warning C4018: '<': signed/unsigned mismatch
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\App\Source\Scene2D\Map2D.cpp(1108,20): warning C4018: '<': signed/unsigned mismatch
+  Physics2D.cpp
+  Player2D.cpp
+  Scene2D.cpp
+  FSM.cpp
+  Generating Code...
+  Compiling...
+  Camera.cpp
+  BloodScreen.cpp
+  CameraEffects.cpp
+  CameraEffectsManager.cpp
+  CameraShake.cpp
+  CrossHair.cpp
+  ScopeScreen.cpp
+  Enemy3D.cpp
+  EntityManager.cpp
+  Hut_Concrete.cpp
+  Player3D.cpp
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\App\Source\Scene3D\Entities\Player3D.cpp(574,67): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\App\Source\Scene3D\Entities\Player3D.cpp(592,67): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Rock3D.cpp
+  SolidObject.cpp
+  SolidObjectManager.cpp
+  Structure3D.cpp
+  TreeKabak3D.cpp
+  GUI_Scene3D.cpp
+  Minimap.cpp
+  Physics3D.cpp
+  Scene3D.cpp
+  Generating Code...
+  Compiling...
+  SceneNode.cpp
+  SpinTower.cpp
+  SkyBox.cpp
+  FrustumCulling.cpp
+  Grid.cpp
+  SpatialPartition.cpp
+  Terrain.cpp
+  TerrainManager.cpp
+  Texture.cpp
+  vertexBufferObject.cpp
+  Waypoint.cpp
+  WaypointManager.cpp
+  Pistol.cpp
+  Projectile.cpp
+  ProjectileManager.cpp
+  WeaponInfo.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  App.vcxproj -> C:\Work\Poly Work\Semester 3\DX1212 Gameplay Programming\NYP_SDM_GDT_Framework\NYP_SDM_GDT_Framework\Debug\App.exe
